@@ -1,1 +1,1 @@
-# Profile-App
+# Face Recognition using LBPH
